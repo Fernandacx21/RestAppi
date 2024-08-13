@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971918779452",
+    "project_id": "restappi",
+    "storage_bucket": "restappi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971918779452:android:b7cc9d5ab88c7f826ccf39",
+        "android_client_info": {
+          "package_name": "com.example.restappimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971918779452-e9slh0drm2vrphehmme66t8b56ngmq5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restappimobile",
+            "certificate_hash": "35f9644f27687a4c9aae23d49c96c3707ac396ef"
+          }
+        },
+        {
+          "client_id": "971918779452-h7ibaaro8isacjpfgablo728tpni83d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjgybPWBZm4bhrK0hQG3Snzto2Vkuby8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971918779452-h7ibaaro8isacjpfgablo728tpni83d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
